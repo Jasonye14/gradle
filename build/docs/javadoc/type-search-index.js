@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.odu.cs","l":"Highway"},{"p":"edu.odu.cs","l":"Interval"},{"p":"edu.odu.cs","l":"Ranges"}];updateSearchResults();
