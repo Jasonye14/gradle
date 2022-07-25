@@ -1,0 +1,9 @@
+-classpath '/Users/jasonye/Desktop/Contig-integration-main/build/classes/java/main:/Users/jasonye/Desktop/Contig-integration-main/build/resources/main'
+-d '/Users/jasonye/Desktop/Contig-integration-main/build/docs/javadoc'
+-doctitle 'Grant API'
+-notimestamp 
+-quiet 
+-windowtitle 'Grant API'
+'/Users/jasonye/Desktop/Contig-integration-main/src/main/java/edu/odu/cs/Interval.java'
+'/Users/jasonye/Desktop/Contig-integration-main/src/main/java/edu/odu/cs/Highway.java'
+'/Users/jasonye/Desktop/Contig-integration-main/src/main/java/edu/odu/cs/Ranges.java'
